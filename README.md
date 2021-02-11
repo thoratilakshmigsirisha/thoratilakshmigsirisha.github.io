@@ -2,15 +2,15 @@
 
 ## Education details:
 
-**Branch,year:**CST,1st year
+** Branch,year: - CST,1st year
 
-**College Name:Sri Vasavi Engineering College
+** College Name:Sri Vasavi Engineering College
 
 ## Skills:
 
--C Programming
--Version Control System(Git & GitHub)
+- C Programming
+- Version Control System(Git & GitHub)
 
 ## Certifications:
 
--Attended 2 days program on Source Code Management using Git and GitHub by APSSDC in my college
+- Attended 2 days program on Source Code Management using Git and GitHub by APSSDC in my college
