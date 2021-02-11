@@ -1,4 +1,4 @@
-# Thorati LAKSHMI Sirisha           
+# Thorati Lakshmi Sirisha           
 
 ## Education details:
 
